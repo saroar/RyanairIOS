@@ -1,0 +1,452 @@
+{
+    "termsOfUse": "https://www.ryanair.com/ie/en/corporate/terms-of-use=AGREED",
+    "currency": "GBP",
+    "currPrecision": 2,
+    "routeGroup": "CITY",
+    "tripType": "CITY_BREAK",
+    "upgradeType": "PLUS",
+    "trips": [
+        {
+            "origin": "STN",
+            "originName": "London (Stansted)",
+            "destination": "LIS",
+            "destinationName": "Lisbon ",
+            "routeGroup": "CITY",
+            "tripType": "CITY_BREAK",
+            "upgradeType": "PLUS",
+            "dates": [
+                {
+                    "dateOut": "2022-02-10T00:00:00.000",
+                    "flights": []
+                },
+                {
+                    "dateOut": "2022-02-11T00:00:00.000",
+                    "flights": []
+                },
+                {
+                    "dateOut": "2022-02-12T00:00:00.000",
+                    "flights": []
+                },
+                {
+                    "dateOut": "2022-02-13T00:00:00.000",
+                    "flights": []
+                },
+                {
+                    "dateOut": "2022-02-14T00:00:00.000",
+                    "flights": [
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~1882~ ~~STN~02/14/2022 17:40~LIS~02/14/2022 20:25~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "AE3ZM64XVOQMPU3E7ZSXLYQOGB6N4TYF6ORVGTGU34MHIV2BOOFYZKGTTSRGF3UTL746UGA6RZSO5BBUZQT2OCGWLVAMKGOWSXM7DQDWPAAWJXFWGNX2VEENBMM2U5AYHYYZSMTGBI4GNJB2X6P3D4R6APRM6IYDNT3RHGLE77ZUMKYG6PJJ53UTBGK5FCCQG6SFGF3HA36LW",
+                                "fareClass": "Q",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 237.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 237.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "STN",
+                                    "destination": "LIS",
+                                    "flightNumber": "FR 1882",
+                                    "time": [
+                                        "2022-02-14T17:40:00.000",
+                                        "2022-02-14T20:25:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-02-14T17:40:00.000Z",
+                                        "2022-02-14T20:25:00.000Z"
+                                    ],
+                                    "duration": "02:45"
+                                }
+                            ],
+                            "flightNumber": "FR 1882",
+                            "time": [
+                                "2022-02-14T17:40:00.000",
+                                "2022-02-14T20:25:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-02-14T17:40:00.000Z",
+                                "2022-02-14T20:25:00.000Z"
+                            ],
+                            "duration": "02:45"
+                        }
+                    ]
+                },
+                {
+                    "dateOut": "2022-02-15T00:00:00.000",
+                    "flights": [
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~1884~ ~~STN~02/15/2022 06:20~LIS~02/15/2022 09:10~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "S5TRHUXRJSFVY4UK5UPJOROAX3XOITJVYE4XBFVOZTUGZE2ERWGEX67B2K2WIAGYP5SE6MMPT373LDGYJLW5LHDOSNNPU2ZTDAWYDZ45PAE7VDIP2KWGUIUDCDXN4M6RFQVODSK5GA4NSFVHZCVVGSZOLC2CWRQDOWTYDBGFZFPSQCSNYHXGTTV6WP5P7K3GIQEO2FN6ARQB6",
+                                "fareClass": "E",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 115.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 115.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "STN",
+                                    "destination": "LIS",
+                                    "flightNumber": "FR 1884",
+                                    "time": [
+                                        "2022-02-15T06:20:00.000",
+                                        "2022-02-15T09:10:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-02-15T06:20:00.000Z",
+                                        "2022-02-15T09:10:00.000Z"
+                                    ],
+                                    "duration": "02:50"
+                                }
+                            ],
+                            "flightNumber": "FR 1884",
+                            "time": [
+                                "2022-02-15T06:20:00.000",
+                                "2022-02-15T09:10:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-02-15T06:20:00.000Z",
+                                "2022-02-15T09:10:00.000Z"
+                            ],
+                            "duration": "02:50"
+                        },
+                        {
+                            "faresLeft": 0,
+                            "flightKey": "FR~1991~ ~~STN~02/15/2022 11:40~LIS~02/15/2022 14:30~~",
+                            "infantsLeft": 18,
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "STN",
+                                    "destination": "LIS",
+                                    "flightNumber": "FR 1991",
+                                    "time": [
+                                        "2022-02-15T11:40:00.000",
+                                        "2022-02-15T14:30:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-02-15T11:40:00.000Z",
+                                        "2022-02-15T14:30:00.000Z"
+                                    ],
+                                    "duration": "02:50"
+                                }
+                            ],
+                            "flightNumber": "FR 1991",
+                            "time": [
+                                "2022-02-15T11:40:00.000",
+                                "2022-02-15T14:30:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-02-15T11:40:00.000Z",
+                                "2022-02-15T14:30:00.000Z"
+                            ],
+                            "duration": "02:50"
+                        },
+                        {
+                            "faresLeft": 0,
+                            "flightKey": "FR~1886~ ~~STN~02/15/2022 15:20~LIS~02/15/2022 18:10~~",
+                            "infantsLeft": 18,
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "STN",
+                                    "destination": "LIS",
+                                    "flightNumber": "FR 1886",
+                                    "time": [
+                                        "2022-02-15T15:20:00.000",
+                                        "2022-02-15T18:10:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-02-15T15:20:00.000Z",
+                                        "2022-02-15T18:10:00.000Z"
+                                    ],
+                                    "duration": "02:50"
+                                }
+                            ],
+                            "flightNumber": "FR 1886",
+                            "time": [
+                                "2022-02-15T15:20:00.000",
+                                "2022-02-15T18:10:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-02-15T15:20:00.000Z",
+                                "2022-02-15T18:10:00.000Z"
+                            ],
+                            "duration": "02:50"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~1882~ ~~STN~02/15/2022 17:40~LIS~02/15/2022 20:25~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "S5TRHUXRJSFVY4UK5UPJOROAX3XOITJVYE4XBFVOZTUGZE2ERWGMHBEXWHZ76K37T4HPCV7GMSWJTGC2R6D5KD66WVEAXUYIRABDRWD4I3UYEI4A2GBLIMIDBB6FSCUYFR357CTF5P2YRTMWMR2YZGQAEY3EWIZICFN6BI5EHZZDMQLBXKGBZC62VOVO6BZXVHJMECLHR5CVC",
+                                "fareClass": "E",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 115.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 115.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "STN",
+                                    "destination": "LIS",
+                                    "flightNumber": "FR 1882",
+                                    "time": [
+                                        "2022-02-15T17:40:00.000",
+                                        "2022-02-15T20:25:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-02-15T17:40:00.000Z",
+                                        "2022-02-15T20:25:00.000Z"
+                                    ],
+                                    "duration": "02:45"
+                                }
+                            ],
+                            "flightNumber": "FR 1882",
+                            "time": [
+                                "2022-02-15T17:40:00.000",
+                                "2022-02-15T20:25:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-02-15T17:40:00.000Z",
+                                "2022-02-15T20:25:00.000Z"
+                            ],
+                            "duration": "02:45"
+                        }
+                    ]
+                },
+                {
+                    "dateOut": "2022-02-16T00:00:00.000",
+                    "flights": [
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~1884~ ~~STN~02/16/2022 09:15~LIS~02/16/2022 12:05~~",
+                            "infantsLeft": 20,
+                            "regularFare": {
+                                "fareKey": "OA5VZYL2E3YJK3ZGISEQGMGSZACMD7IDSS5BLFSBM4R5V6DTTEJBKJ6MTUZPCFZDVDRMGMIYPFARNFNNPLGNEMKF4QMIRPPEWKT6DMQR5KSV53ADKARUGEYVSP54DUHZDM45SW6V6KCXDR4WYEEFIRIL7W5SB4U266HCIV62727ROX4R42LUCZGY7HD6AD25POVL7U7RPWNXY",
+                                "fareClass": "K",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 96.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 96.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "Lauda Europe",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "STN",
+                                    "destination": "LIS",
+                                    "flightNumber": "FR 1884",
+                                    "time": [
+                                        "2022-02-16T09:15:00.000",
+                                        "2022-02-16T12:05:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-02-16T09:15:00.000Z",
+                                        "2022-02-16T12:05:00.000Z"
+                                    ],
+                                    "duration": "02:50"
+                                }
+                            ],
+                            "flightNumber": "FR 1884",
+                            "time": [
+                                "2022-02-16T09:15:00.000",
+                                "2022-02-16T12:05:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-02-16T09:15:00.000Z",
+                                "2022-02-16T12:05:00.000Z"
+                            ],
+                            "duration": "02:50"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~1886~ ~~STN~02/16/2022 11:50~LIS~02/16/2022 14:40~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "OA5VZYL2E3YJK3ZGISEQGMGSZACMD7IDSS5BLFSBM4R5V6DTTEJOVC343H42JSNGVAO3XTLEOUXVHNIDHSNFCU23UVCVHY5675NRHTKFKFXZLFFOVKIPJUXXYYR6K3QGATRY3IR6RJFVKRF2BTM533DG4DIHWVVYPNUU7AWBFF6TGFP45GAKQGMZENNF5TDRHCF6T6LYQMQDI",
+                                "fareClass": "K",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 96.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 96.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "STN",
+                                    "destination": "LIS",
+                                    "flightNumber": "FR 1886",
+                                    "time": [
+                                        "2022-02-16T11:50:00.000",
+                                        "2022-02-16T14:40:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-02-16T11:50:00.000Z",
+                                        "2022-02-16T14:40:00.000Z"
+                                    ],
+                                    "duration": "02:50"
+                                }
+                            ],
+                            "flightNumber": "FR 1886",
+                            "time": [
+                                "2022-02-16T11:50:00.000",
+                                "2022-02-16T14:40:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-02-16T11:50:00.000Z",
+                                "2022-02-16T14:40:00.000Z"
+                            ],
+                            "duration": "02:50"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~1882~ ~~STN~02/16/2022 17:40~LIS~02/16/2022 20:25~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "OA5VZYL2E3YJK3ZGISEQGMGSZACMD7IDSS5BLFSBM4R5V6DTTEJI743UPZO2BO27NIFOJ6UP5JLR23JWQ6NAOY2GJKYQCVXJDYRD5YBK3WAOLOH6P4H2EXGTYVEJOXV3CC4R427HSNMYJKAFFUVJDYFLBCVGB6YMEA2QY576V3YMOA24Y34TFTBHG6N3LIG4FRDMOHHCJ3EDE",
+                                "fareClass": "K",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 96.99,
+                                        "count": 1,
+                                        "hasDiscount": false,
+                                        "publishedFare": 96.99,
+                                        "discountInPercent": 0,
+                                        "hasPromoDiscount": false,
+                                        "discountAmount": 0.0,
+                                        "hasBogof": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "STN",
+                                    "destination": "LIS",
+                                    "flightNumber": "FR 1882",
+                                    "time": [
+                                        "2022-02-16T17:40:00.000",
+                                        "2022-02-16T20:25:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-02-16T17:40:00.000Z",
+                                        "2022-02-16T20:25:00.000Z"
+                                    ],
+                                    "duration": "02:45"
+                                }
+                            ],
+                            "flightNumber": "FR 1882",
+                            "time": [
+                                "2022-02-16T17:40:00.000",
+                                "2022-02-16T20:25:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-02-16T17:40:00.000Z",
+                                "2022-02-16T20:25:00.000Z"
+                            ],
+                            "duration": "02:45"
+                        },
+                        {
+                            "faresLeft": 0,
+                            "flightKey": "FR~1991~ ~~STN~02/16/2022 19:50~LIS~02/16/2022 22:40~~",
+                            "infantsLeft": 18,
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "STN",
+                                    "destination": "LIS",
+                                    "flightNumber": "FR 1991",
+                                    "time": [
+                                        "2022-02-16T19:50:00.000",
+                                        "2022-02-16T22:40:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2022-02-16T19:50:00.000Z",
+                                        "2022-02-16T22:40:00.000Z"
+                                    ],
+                                    "duration": "02:50"
+                                }
+                            ],
+                            "flightNumber": "FR 1991",
+                            "time": [
+                                "2022-02-16T19:50:00.000",
+                                "2022-02-16T22:40:00.000"
+                            ],
+                            "timeUTC": [
+                                "2022-02-16T19:50:00.000Z",
+                                "2022-02-16T22:40:00.000Z"
+                            ],
+                            "duration": "02:50"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "serverTimeUTC": "2022-02-14T12:37:21.652Z"
+}
