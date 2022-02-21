@@ -227,7 +227,6 @@ struct StationListView: View {
 					} label: {
 						StationRowView(store: stationStore)
 					}
-					.buttonStyle(PlainButtonStyle())
 				}
 			}
 		}
@@ -258,7 +257,6 @@ struct StationRowView: View {
 
 						Text(station.code)
 							.foregroundColor(Color.blue)
-
 					}
 
 					Text(station.countryName).font(.body)
@@ -270,11 +268,8 @@ struct StationRowView: View {
 				}
 				.frame(maxWidth: .infinity, alignment: .leading)
 				.padding()
-
-
-
-
 			}
+      .frame(maxWidth: .infinity, alignment: .leading)
 		}
 	}
 }
